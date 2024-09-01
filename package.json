@@ -1,0 +1,11 @@
+{
+  "name": "stackbuilders",
+  "version": "y",
+  "description": "na",
+  "main": "y",
+  "author": "miguel",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.2.1"
+  }
+}
