@@ -8,7 +8,7 @@ This project is a web scraper for Hacker News. The scraper extracts data includi
 
 You will need Node.js installed to run this project. To install it, follow these steps:
 
-1. Clone the repository: `git clone git@github.com:miguelcgr/scraper.git`
+1. Clone the repository: `git clone https://github.com/miguelcgr/scraper`
 2. Install dependencies: `yarn`
 3. Start the application: `node scrapers.js`
 
