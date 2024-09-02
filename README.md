@@ -1,6 +1,4 @@
-# Project Name
-
-Hacker News Scraper
+# Hacker News Scraper
 
 ## Description
 
