@@ -1,0 +1,10 @@
+# Node.js modules
+/node_modules
+
+# Data files
+shortTitleArticles.json
+longTitleArticles.json
+usageData.json
+
+# misc
+.env
